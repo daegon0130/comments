@@ -1,0 +1,3 @@
+[submodule "k8s"]
+	path = k8s
+	url = https://beta-devtools.ncloud.com/5000710/k8s.git
